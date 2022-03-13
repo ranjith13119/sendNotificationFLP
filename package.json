@@ -1,0 +1,11 @@
+{
+  "name": "notifications-demo",
+  "scripts": {
+    "start": "node create.js"
+  },
+  "dependencies": {
+    "@sap-cloud-sdk/core": "^1.46.0",
+    "axios": "^0.21.1",
+    "@sap/xsenv": "^3.1.1"
+  }
+}
